@@ -3,7 +3,7 @@
     <title>alfredolvera.com</title>
     <link href="https://alfredolvera.com/feed.xml" rel="self" />
     <link href="https://alfredolvera.com" />
-    <updated>2025-02-28T18:17:57-06:00</updated>
+    <updated>2025-02-28T23:06:53-06:00</updated>
     <author>
         <name>Alfredo Olvera</name>
     </author>
@@ -16,15 +16,24 @@
         </author>
         <link href="https://alfredolvera.com/preguntas-y-respuestas-111223.html"/>
         <id>https://alfredolvera.com/preguntas-y-respuestas-111223.html</id>
+        <media:content url="https://alfredolvera.com/media/posts/1/halo-2-review-image-1024x587.jpg" medium="image" />
+            <category term="Super Star Wars"/>
+            <category term="Pizza"/>
+            <category term="Jurassic Park Classic Games Collection"/>
+            <category term="Halo"/>
+            <category term="Forza Motorsport"/>
+            <category term="2023"/>
 
         <updated>2023-12-11T17:30:00-06:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://alfredolvera.com/media/posts/1/halo-2-review-image-1024x587.jpg" alt="" />
                     ¡Bienvenido a esta sección! Aquí tú preguntas y yo respondo. Puedes hacer preguntas de lo que quieras: Sobre los invitados que hemos tenido en el&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://alfredolvera.com/media/posts/1/halo-2-review-image-1024x587.jpg" class="type:primaryImage" alt="" /></p>
                 <p>¡Bienvenido a esta sección! Aquí tú preguntas y yo respondo. Puedes hacer preguntas de lo que quieras: Sobre los invitados que hemos tenido en el programa, mi opinión de cualquier juego o tema que tiene que ver con videojuegos, asuntos personales (a discreción) y (casi) cualquier cosa que se te ocurra.</p>
 <p>Como esta es la primera vez haciendo esto, tomé algunas preguntas de varias fuentes (que he visto publicadas, que me han mandado y de mis podcasts favoritos) para responder, pero si tú quieres que responda tu pregunta sólo déjala aquí, en los comentarios, y será respondida en la próxima edición de Preguntas y Respuestas.</p>
 <p>¡Vamos!</p>
@@ -48,7 +57,7 @@
 <p><strong>El internet pregunta: ¿Crees que deban considerarse los remakes o relanzamientos para una premiación de “Juego del Año”?</strong></p>
 <p>Depende.</p>
 <p>Creo que deberías de preguntar exactamente qué significa para cada medio el término “Juego del Año”. Si deciden asignarle el significado de “juego que fue puesto a la venta en los últimos 12 meses y nada más” (que es lo más común) creo que los remakes entran a la perfección en esa descripción. Los relanzamientos también.</p>
-<p>Podrías pintar tu línea al decir “juegos que fueron puestos a la venta en los últimos 12 meses y que, si fueron relanzamientos, tuvieran mejoras significativas a su lanzamiento original” para evitar incluir a quincuagésimo séptimo lanzamiento de Skyrim, o al equivalente del año en el que sólo subieron la resolución, pasaron las texturas por un filtro de IA y listo.</p>
+<p>Podrías pintar tu línea al decir “juegos que fueron puestos a la venta en los últimos 12 meses y que, si fueron relanzamientos, tuvieran mejoras significativas a su lanzamiento original” para evitar incluir a quincuagésimo séptimo lanzamiento de <em>Skyrim</em>, o al equivalente del año en el que sólo subieron la resolución, pasaron las texturas por un filtro de IA y listo.</p>
 <p>Sin embargo, tendrías que explicar muy bien los parámetros de tu categoría para ser muy específico de dónde comienza y termina tu criterio: ¿Cómo defines que un juego ha tenido “mejoras significativas”? ¿Qué tal que yo considero que una de esas mejoras es digna de considerarse y tú no?</p>
 <p>Entiendo que quieras hacer énfasis en premiar la originalidad en una industria que parece obsesionada con venderte lo que ya compraste en el pasado una y otra vez, pero cuando se trata de una premiación tan generalizada y aleatoria al contentillo de cada individuo como “El mejor juego del año”, debemos tener reglas más o menos definidas para tener el mínimo de orden y entendimiento externo.</p>
 <p> </p>
